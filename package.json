@@ -1,0 +1,11 @@
+{
+  "name": "basicnodeserv",
+  "version": "1.0.0",
+  "description": "a very very basic node server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donovan van der Linde",
+  "license": "ISC"
+}
